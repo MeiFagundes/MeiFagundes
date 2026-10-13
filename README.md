@@ -4,7 +4,7 @@ I'm a mobile developer working with Flutter and native iOS development in Swift.
 
 My experience also includes building augmented reality features with Unity AR Foundation for apps in production.
 
-Alongside mobile development, I enjoy building practical tools and interactive experiences.
+Alongside mobile development, I enjoy building practical tools for my own use.
 
 ## A few projects to explore
 

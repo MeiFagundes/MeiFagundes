@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Mei 🌺
 
-<!--
-**MeiFagundes/MeiFagundes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a mobile developer working with Flutter and native iOS development in Swift. I previously worked at Thoughtworks and completed my technical education at CEFET-MG.
 
-Here are some ideas to get you started:
+My experience also includes building augmented reality features with Unity AR Foundation for apps in production.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Alongside mobile development, I enjoy building practical tools and interactive experiences.
+
+## A few projects to explore
+
+- [**Pokedex**](https://github.com/MeiFagundes/Pokedex): a Flutter app using the PokeAPI.
+- [**List Decluttering Tool**](https://github.com/MeiFagundes/ListDeclutteringTool): a Windows desktop tool for organizing lists and clipboard data.
+- [**MyQuimicaLab**](https://github.com/MyQuimicaLab/MyQuimicaLab.github.io): an educational game developed in collaboration with CEFET-MG to teach organic chemistry.
+
+Find me at [**meifagundes.com**](https://meifagundes.com).
